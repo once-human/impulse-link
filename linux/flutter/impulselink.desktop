@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ImpulseLink
+Comment=A Flutter application for managing impulse connections
+Exec=./build/impulselink
+Icon=demo
+Terminal=false
+Categories=Utility;
